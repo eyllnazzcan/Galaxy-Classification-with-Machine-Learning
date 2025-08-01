@@ -25,8 +25,8 @@ The project was implemented in PyTorch and explores both Logistic Regression wit
          transforms.ToTensor(),
      ])
      ```
-   **Dataset Availability:**  
-   The dataset used in this project cannot be uploaded to this repository due to licensing restrictions.  
+    **Dataset Availability:**  
+    The dataset used in this project cannot be uploaded to this repository due to licensing restrictions.  
 
 2. **Feature Extraction for Logistic Regression**
    - **Color Histograms (64 bins per channel)**
